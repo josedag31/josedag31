@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Jos%C3%A9%20Del%20Amor%20Gonz%C3%A1lez&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20Vehicle%20Dynamics%20%C2%B7%20Control%20%C2%B7%20AI&descSize=16&descAlignY=60" alt="header" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1800&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Head+of+Manual+Control+%40+ARUS+Andaluc%C3%ADa+Racing+Team;Software+Engineering+student+at+the+University+of+Seville;Control+systems+%C2%B7+Vehicle+dynamics+%C2%B7+Embedded+C;Building+with+AI+agents+and+MCP" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=130&lines=Head+of+Manual+Control+%40+ARUS+Andaluc%C3%ADa+Racing+Team;Software+Engineering+student+at+the+University+of+Seville;Control+systems+%C2%B7+Vehicle+dynamics+%C2%B7+Embedded+C;Building+with+AI+agents+and+MCP" alt="Typing animation">
 </a>
 
 <br>
@@ -96,15 +96,7 @@ I am a third-year Software Engineering student at the **University of Seville**,
 ## Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josedag31/josedag31/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josedag31/josedag31/output/github-snake.svg">
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/josedag31/josedag31/output/github-snake-dark.svg" width="100%">
-  </picture>
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josedag31&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point_color=ffffff&area=true&area_color=1f6feb&custom_title=Contribution%20activity" alt="Activity graph" width="100%">
+  <img src="https://raw.githubusercontent.com/josedag31/josedag31/output/contribution-wave.svg" alt="Contribution heatmap" width="100%">
 </div>
 
 ---
@@ -112,7 +104,7 @@ I am a third-year Software Engineering student at the **University of Seville**,
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josedag31&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=josedag31&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedag31&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" height="165">
   <br>
   <img src="https://streak-stats.demolab.com?user=josedag31&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak" height="165">
