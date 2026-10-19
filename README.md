@@ -15,7 +15,7 @@
 
 I am a third-year Software Engineering student at the **University of Seville**, with a strong interest in the point where software meets control, vehicle dynamics and artificial intelligence.
 
-- 🏎️ **Head of Manual Control** in the Vehicle Dynamics Department at [ARUS Andalucía Racing Team](https://www.arusteam.com) (Formula Student). I lead **Traction Control** (PID + feedforward) and the **tyre model**, and I am in charge of the department's **database**.
+- 🏎️ **Head of Manual Control** in the Vehicle Dynamics Department at [ARUS Andalucía Racing Team](https://www.arusteam.com) (Formula Student). I lead **Traction Control** and the **tyre model**, and I am in charge of the department's **database**.
 - 🧠 Working with **AI agents and MCP**, learning **machine learning**, and exploring **intelligent control**.
 - ⚙️ I build tools and **automations** for my own workflow, and I use **reverse engineering** (assisted by AI tooling) to understand systems I do not have the source code of.
 - 🛠️ I like clean projects: documented, reproducible and easy to pick up again months later.
