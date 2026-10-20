@@ -11,6 +11,10 @@
 <a href="mailto:josedag31@gmail.com"><img src="https://img.shields.io/badge/Email-josedag31@gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-del-amor-gonz%C3%A1lez-96478b385"><img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Del%20Amor-1f2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/josedag31/josedag31/output/contribution-wave.svg" alt="Contribution heatmap" width="100%">
+
 </div>
 
 ---
@@ -24,6 +28,19 @@ I am a third-year Software Engineering student at the **University of Seville**,
 - 📐 Hands-on experience with **PID and feedforward control** and **vehicle dynamics**.
 - 🧠 I work daily with **AI agents and MCP**, I know **Claude** end to end (Claude Code, agents, skills, MCP), and I am learning **machine learning** and **intelligent control**.
 - ⚙️ I build tools and **automations**, and I use AI-assisted **reverse engineering** to understand systems whose source code I do not have.
+
+---
+
+## What I work on
+
+| Area | Focus |
+|---|---|
+| **Manual Control** | Responsible for the area; review of the rest of the control work |
+| **Vehicle dynamics** | Traction control, tyre modelling, PID and feedforward control |
+| **Embedded** | C for vehicle control, MATLAB/Simulink models and simulation |
+| **Data** | Design and maintenance of the department's database |
+| **AI** | Agents and MCP, Claude, machine learning fundamentals, intelligent control |
+| **Tooling** | Automation, personal and academic projects, AI-assisted reverse engineering |
 
 ---
 
@@ -70,33 +87,12 @@ I am a third-year Software Engineering student at the **University of Seville**,
 
 ---
 
-## What I work on
-
-| Area | Focus |
-|---|---|
-| **Manual Control** | Responsible for the area; review of the rest of the control work |
-| **Vehicle dynamics** | Traction control, tyre modelling, PID and feedforward control |
-| **Embedded** | C for vehicle control, MATLAB/Simulink models and simulation |
-| **Data** | Design and maintenance of the department's database |
-| **AI** | Agents and MCP, Claude, machine learning fundamentals, intelligent control |
-| **Tooling** | Automation, personal and academic projects, AI-assisted reverse engineering |
-
----
-
 ## Featured
 
 <div align="center">
   <a href="https://github.com/josedag31/WinAirdrop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josedag31&repo=WinAirdrop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="WinAirdrop">
   </a>
-</div>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josedag31/josedag31/output/contribution-wave.svg" alt="Contribution heatmap" width="100%">
 </div>
 
 ---
