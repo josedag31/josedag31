@@ -1,4 +1,4 @@
-name: Generate contribution wave
+name: Generate profile images
 
 on:
   schedule:
@@ -16,10 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build wave heatmap
+      - name: Build profile images
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/wave.py "${{ github.repository_owner }}" dist/contribution-wave.svg
+        run: python3 .github/scripts/build.py "${{ github.repository_owner }}" dist
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
