@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-label="GitHub stats">
+<style>
+  :root { --bg:#0d1117; --border:#30363d; --text:#c9d1d9; --muted:#8b949e; --title:#58a6ff;
+          --l0:#161b22; --l1:#0e4429; --l2:#006d32; --l3:#26a641; --l4:#39d353; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#ffffff; --border:#d0d7de; --text:#24292f; --muted:#57606a; --title:#0969da;
+            --l0:#ebedf0; --l1:#9be9a8; --l2:#40c463; --l3:#30a14e; --l4:#216e39; }
+  }
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: var(--text); }
+  .title { font-size: 16px; font-weight: 600; fill: var(--title); }
+  .label { font-size: 13px; }
+  .value { font-size: 13px; font-weight: 600; text-anchor: end; }
+  .muted { font-size: 12px; fill: var(--muted); }
+  .card-bg { fill: var(--bg); stroke: var(--border); }
+  .fade { animation: fade .9s ease-out both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .fade, .c, .grow { animation: none; } }
+</style>
+<rect class="card-bg" x=".5" y=".5" width="399" height="199" rx="8"/>
+<g class="fade"><text class="title" x="22" y="34">GitHub stats</text>
+<text class="label" x="22" y="66">Contributions (last year)</text>
+<text class="value" x="378" y="66">421</text>
+<text class="label" x="22" y="90">Commits</text>
+<text class="value" x="378" y="90">93</text>
+<text class="label" x="22" y="114">Pull requests</text>
+<text class="value" x="378" y="114">6</text>
+<text class="label" x="22" y="138">Issues</text>
+<text class="value" x="378" y="138">0</text>
+<text class="label" x="22" y="162">Public repositories</text>
+<text class="value" x="378" y="162">4</text>
+<text class="label" x="22" y="186">Stars earned</text>
+<text class="value" x="378" y="186">0</text></g>
+</svg>
