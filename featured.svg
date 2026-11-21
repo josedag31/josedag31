@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 110" width="804" height="110" role="img" aria-label="WinAirdrop">
+<style>
+  :root { --bg:#0d1117; --border:#30363d; --text:#c9d1d9; --muted:#8b949e; --title:#58a6ff;
+          --l0:#161b22; --l1:#0e4429; --l2:#006d32; --l3:#26a641; --l4:#39d353; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#ffffff; --border:#d0d7de; --text:#24292f; --muted:#57606a; --title:#0969da;
+            --l0:#ebedf0; --l1:#9be9a8; --l2:#40c463; --l3:#30a14e; --l4:#216e39; }
+  }
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: var(--text); }
+  .title { font-size: 16px; font-weight: 600; fill: var(--title); }
+  .label { font-size: 13px; }
+  .value { font-size: 13px; font-weight: 600; text-anchor: end; }
+  .muted { font-size: 12px; fill: var(--muted); }
+  .card-bg { fill: var(--bg); stroke: var(--border); }
+  .fade { animation: fade .9s ease-out both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .fade, .c, .grow { animation: none; } }
+</style>
+<rect class="card-bg" x=".5" y=".5" width="803" height="109" rx="8"/>
+<g class="fade"><text class="title" x="22" y="34">WinAirdrop</text>
+<text class="label" x="22" y="64">AirDrop-style sharing from your iPhone to Windows</text>
+<circle cx="27" cy="86" r="5" fill="#3572A5"/>
+<text class="muted" x="40" y="90">Python</text>
+<text class="muted" x="110" y="90">★ 0</text>
+<text class="muted" x="170" y="90">⑂ 0</text></g>
+</svg>
