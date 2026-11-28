@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-label="Top languages">
+<style>
+  :root { --bg:#0d1117; --border:#30363d; --text:#c9d1d9; --muted:#8b949e; --title:#58a6ff;
+          --l0:#161b22; --l1:#0e4429; --l2:#006d32; --l3:#26a641; --l4:#39d353; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#ffffff; --border:#d0d7de; --text:#24292f; --muted:#57606a; --title:#0969da;
+            --l0:#ebedf0; --l1:#9be9a8; --l2:#40c463; --l3:#30a14e; --l4:#216e39; }
+  }
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: var(--text); }
+  .title { font-size: 16px; font-weight: 600; fill: var(--title); }
+  .label { font-size: 13px; }
+  .value { font-size: 13px; font-weight: 600; text-anchor: end; }
+  .muted { font-size: 12px; fill: var(--muted); }
+  .card-bg { fill: var(--bg); stroke: var(--border); }
+  .fade { animation: fade .9s ease-out both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .fade, .c, .grow { animation: none; } }
+</style>
+<rect class="card-bg" x=".5" y=".5" width="399" height="199" rx="8"/>
+<g class="fade"><text class="title" x="22" y="34">Top languages</text>
+<clipPath id="bar"><rect x="22" y="50" width="356" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="22.0" y="50" width="199.0" height="8" fill="#3178c6"/>
+<rect x="221.0" y="50" width="64.2" height="8" fill="#f1e05a"/>
+<rect x="285.2" y="50" width="52.3" height="8" fill="#3572A5"/>
+<rect x="337.5" y="50" width="21.0" height="8" fill="#e34c26"/>
+<rect x="358.5" y="50" width="8.2" height="8" fill="#012456"/>
+<rect x="366.7" y="50" width="5.8" height="8" fill="#663399"/>
+</g>
+<circle cx="27" cy="88" r="5" fill="#3178c6"/>
+<text class="label" x="40" y="92">TypeScript <tspan class="muted">55.9%</tspan></text>
+<circle cx="207" cy="88" r="5" fill="#f1e05a"/>
+<text class="label" x="220" y="92">JavaScript <tspan class="muted">18.0%</tspan></text>
+<circle cx="27" cy="114" r="5" fill="#3572A5"/>
+<text class="label" x="40" y="118">Python <tspan class="muted">14.7%</tspan></text>
+<circle cx="207" cy="114" r="5" fill="#e34c26"/>
+<text class="label" x="220" y="118">HTML <tspan class="muted">5.9%</tspan></text>
+<circle cx="27" cy="140" r="5" fill="#012456"/>
+<text class="label" x="40" y="144">PowerShell <tspan class="muted">2.3%</tspan></text>
+<circle cx="207" cy="140" r="5" fill="#663399"/>
+<text class="label" x="220" y="144">CSS <tspan class="muted">1.6%</tspan></text></g>
+</svg>
